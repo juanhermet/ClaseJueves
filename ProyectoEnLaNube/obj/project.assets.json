@@ -8,18 +8,11 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-<<<<<<< HEAD
     "C:\\Users\\user\\.nuget\\packages\\": {}
-=======
-    "C:\\Users\\Bianca\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
->>>>>>> 205ceda9f4a2a54989d198ef384d32f77d776953
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
       "projectUniqueName": "E:\\New\\ClaseJueves\\ProyectoEnLaNube\\ProyectoEnLaNube.csproj",
       "projectName": "ProyectoEnLaNube",
       "projectPath": "E:\\New\\ClaseJueves\\ProyectoEnLaNube\\ProyectoEnLaNube.csproj",
@@ -29,23 +22,6 @@
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-=======
-      "projectUniqueName": "F:\\Clase Jueves\\ClaseJueves\\ProyectoEnLaNube\\ProyectoEnLaNube.csproj",
-      "projectName": "ProyectoEnLaNube",
-      "projectPath": "F:\\Clase Jueves\\ClaseJueves\\ProyectoEnLaNube\\ProyectoEnLaNube.csproj",
-      "packagesPath": "C:\\Users\\Bianca\\.nuget\\packages\\",
-      "outputPath": "F:\\Clase Jueves\\ClaseJueves\\ProyectoEnLaNube\\obj\\",
-      "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-      ],
-      "configFilePaths": [
-        "C:\\Users\\Bianca\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
->>>>>>> 205ceda9f4a2a54989d198ef384d32f77d776953
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -84,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   },
@@ -93,7 +69,7 @@
       "code": "Undefined",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Problema al leer el archivo de caché F:\\Clase Jueves\\ClaseJueves\\ProyectoEnLaNube\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+      "message": "Problema al leer el archivo de caché E:\\New\\ClaseJueves\\ProyectoEnLaNube\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
     }
   ]
 }
