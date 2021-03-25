@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\New\\ClaseJueves\\ProyectoEnLaNube\\ProyectoEnLaNube.csproj",
-      "projectName": "ProyectoEnLaNube",
-      "projectPath": "E:\\New\\ClaseJueves\\ProyectoEnLaNube\\ProyectoEnLaNube.csproj",
+      "projectUniqueName": "E:\\New\\ClaseJueves\\ProyectoEnLaNube\\Joel Funes\\Joel Funes.csproj",
+      "projectName": "Joel Funes",
+      "projectPath": "E:\\New\\ClaseJueves\\ProyectoEnLaNube\\Joel Funes\\Joel Funes.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "E:\\New\\ClaseJueves\\ProyectoEnLaNube\\obj\\",
+      "outputPath": "E:\\New\\ClaseJueves\\ProyectoEnLaNube\\Joel Funes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
