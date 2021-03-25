@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "E:\\New\\ClaseJueves\\ProyectoEnLaNube\\ProyectoEnLaNube.csproj": {}
   },
   "projects": {
@@ -15,6 +16,22 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+    "C:\\Users\\juan\\Desktop\\trabajos\\ClaseJueves\\ProyectoEnLaNube\\ProyectoEnLaNube.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\juan\\Desktop\\trabajos\\ClaseJueves\\ProyectoEnLaNube\\ProyectoEnLaNube.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\juan\\Desktop\\trabajos\\ClaseJueves\\ProyectoEnLaNube\\ProyectoEnLaNube.csproj",
+        "projectName": "ProyectoEnLaNube",
+        "projectPath": "C:\\Users\\juan\\Desktop\\trabajos\\ClaseJueves\\ProyectoEnLaNube\\ProyectoEnLaNube.csproj",
+        "packagesPath": "C:\\Users\\juan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\juan\\Desktop\\trabajos\\ClaseJueves\\ProyectoEnLaNube\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\juan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 76d649368411d2d521d2766654595e174b7df3b4
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +71,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+>>>>>>> 76d649368411d2d521d2766654595e174b7df3b4
         }
       }
     }

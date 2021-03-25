@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "yA9ET15zL8BQaN2vhP0qbO3S1S2uXzI9iNqG+lPBgEeWnkIm9Ta72OWb54DMPkMvYkZRlZMVHWxg2put216TIw==",
   "success": true,
   "projectFilePath": "E:\\New\\ClaseJueves\\ProyectoEnLaNube\\ProyectoEnLaNube.csproj",
@@ -12,4 +13,11 @@
       "message": "Problema al leer el archivo de caché E:\\New\\ClaseJueves\\ProyectoEnLaNube\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
     }
   ]
+=======
+  "dgSpecHash": "AdG2QVP3q+pv5ECkWyb9CX8jCW/6mUDn5NyTXHyHIINv5LlhtZ+XnWon/Uc1STXaVzpQunuOHUCuqYSyJja30Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\juan\\Desktop\\trabajos\\ClaseJueves\\ProyectoEnLaNube\\ProyectoEnLaNube.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> 76d649368411d2d521d2766654595e174b7df3b4
 }

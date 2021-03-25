@@ -8,11 +8,16 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\user\\.nuget\\packages\\": {}
+=======
+    "C:\\Users\\juan\\.nuget\\packages\\": {}
+>>>>>>> 76d649368411d2d521d2766654595e174b7df3b4
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "E:\\New\\ClaseJueves\\ProyectoEnLaNube\\ProyectoEnLaNube.csproj",
       "projectName": "ProyectoEnLaNube",
       "projectPath": "E:\\New\\ClaseJueves\\ProyectoEnLaNube\\ProyectoEnLaNube.csproj",
@@ -21,6 +26,16 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+      "projectUniqueName": "C:\\Users\\juan\\Desktop\\trabajos\\ClaseJueves\\ProyectoEnLaNube\\ProyectoEnLaNube.csproj",
+      "projectName": "ProyectoEnLaNube",
+      "projectPath": "C:\\Users\\juan\\Desktop\\trabajos\\ClaseJueves\\ProyectoEnLaNube\\ProyectoEnLaNube.csproj",
+      "packagesPath": "C:\\Users\\juan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\juan\\Desktop\\trabajos\\ClaseJueves\\ProyectoEnLaNube\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\juan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 76d649368411d2d521d2766654595e174b7df3b4
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,6 +75,7 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
@@ -72,4 +88,10 @@
       "message": "Problema al leer el archivo de caché E:\\New\\ClaseJueves\\ProyectoEnLaNube\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
     }
   ]
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+>>>>>>> 76d649368411d2d521d2766654595e174b7df3b4
 }
