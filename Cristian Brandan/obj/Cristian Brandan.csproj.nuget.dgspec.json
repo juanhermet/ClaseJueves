@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Floor\\Desktop\\Nueva carpeta\\ClaseJueves\\ProyectoEnLaNube\\ProyectoEnLaNube.csproj": {}
+    "C:\\Users\\Floor\\Desktop\\Nueva carpeta\\ClaseJueves\\Cristian Brandan\\Cristian Brandan.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Floor\\Desktop\\Nueva carpeta\\ClaseJueves\\ProyectoEnLaNube\\ProyectoEnLaNube.csproj": {
+    "C:\\Users\\Floor\\Desktop\\Nueva carpeta\\ClaseJueves\\Cristian Brandan\\Cristian Brandan.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Floor\\Desktop\\Nueva carpeta\\ClaseJueves\\ProyectoEnLaNube\\ProyectoEnLaNube.csproj",
-        "projectName": "ProyectoEnLaNube",
-        "projectPath": "C:\\Users\\Floor\\Desktop\\Nueva carpeta\\ClaseJueves\\ProyectoEnLaNube\\ProyectoEnLaNube.csproj",
+        "projectUniqueName": "C:\\Users\\Floor\\Desktop\\Nueva carpeta\\ClaseJueves\\Cristian Brandan\\Cristian Brandan.csproj",
+        "projectName": "Cristian Brandan",
+        "projectPath": "C:\\Users\\Floor\\Desktop\\Nueva carpeta\\ClaseJueves\\Cristian Brandan\\Cristian Brandan.csproj",
         "packagesPath": "C:\\Users\\Floor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Floor\\Desktop\\Nueva carpeta\\ClaseJueves\\ProyectoEnLaNube\\obj\\",
+        "outputPath": "C:\\Users\\Floor\\Desktop\\Nueva carpeta\\ClaseJueves\\Cristian Brandan\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
