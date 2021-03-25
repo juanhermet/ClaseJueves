@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Clase jueves\\ClaseJueves\\JuanFuensalida\\JuanFuensalida.csproj": {}
+    "C:\\Clase jueves\\ClaseJueves\\LucasParolini\\LucasParolini.csproj": {}
   },
   "projects": {
-    "C:\\Clase jueves\\ClaseJueves\\JuanFuensalida\\JuanFuensalida.csproj": {
+    "C:\\Clase jueves\\ClaseJueves\\LucasParolini\\LucasParolini.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Clase jueves\\ClaseJueves\\JuanFuensalida\\JuanFuensalida.csproj",
-        "projectName": "JuanFuensalida",
-        "projectPath": "C:\\Clase jueves\\ClaseJueves\\JuanFuensalida\\JuanFuensalida.csproj",
+        "projectUniqueName": "C:\\Clase jueves\\ClaseJueves\\LucasParolini\\LucasParolini.csproj",
+        "projectName": "LucasParolini",
+        "projectPath": "C:\\Clase jueves\\ClaseJueves\\LucasParolini\\LucasParolini.csproj",
         "packagesPath": "C:\\Users\\WINDOWS 10\\.nuget\\packages\\",
-        "outputPath": "C:\\Clase jueves\\ClaseJueves\\JuanFuensalida\\obj\\",
+        "outputPath": "C:\\Clase jueves\\ClaseJueves\\LucasParolini\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
