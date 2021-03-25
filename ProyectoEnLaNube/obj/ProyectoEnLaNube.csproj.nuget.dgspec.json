@@ -1,27 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Clase Jueves\\ClaseJueves\\ProyectoEnLaNube\\ProyectoEnLaNube.csproj": {}
+    "C:\\Users\\juan\\Desktop\\trabajos\\ClaseJueves\\ProyectoEnLaNube\\ProyectoEnLaNube.csproj": {}
   },
   "projects": {
-    "F:\\Clase Jueves\\ClaseJueves\\ProyectoEnLaNube\\ProyectoEnLaNube.csproj": {
+    "C:\\Users\\juan\\Desktop\\trabajos\\ClaseJueves\\ProyectoEnLaNube\\ProyectoEnLaNube.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Clase Jueves\\ClaseJueves\\ProyectoEnLaNube\\ProyectoEnLaNube.csproj",
+        "projectUniqueName": "C:\\Users\\juan\\Desktop\\trabajos\\ClaseJueves\\ProyectoEnLaNube\\ProyectoEnLaNube.csproj",
         "projectName": "ProyectoEnLaNube",
-        "projectPath": "F:\\Clase Jueves\\ClaseJueves\\ProyectoEnLaNube\\ProyectoEnLaNube.csproj",
-        "packagesPath": "C:\\Users\\Bianca\\.nuget\\packages\\",
-        "outputPath": "F:\\Clase Jueves\\ClaseJueves\\ProyectoEnLaNube\\obj\\",
+        "projectPath": "C:\\Users\\juan\\Desktop\\trabajos\\ClaseJueves\\ProyectoEnLaNube\\ProyectoEnLaNube.csproj",
+        "packagesPath": "C:\\Users\\juan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\juan\\Desktop\\trabajos\\ClaseJueves\\ProyectoEnLaNube\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Bianca\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\juan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -60,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
         }
       }
     }
