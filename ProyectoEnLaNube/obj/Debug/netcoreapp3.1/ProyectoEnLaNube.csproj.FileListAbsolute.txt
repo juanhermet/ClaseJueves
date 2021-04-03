@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 D:\Clase Jueves\ProyectoEnLaNube\ProyectoEnLaNube\bin\Debug\netcoreapp3.1\ProyectoEnLaNube.exe
 D:\Clase Jueves\ProyectoEnLaNube\ProyectoEnLaNube\bin\Debug\netcoreapp3.1\ProyectoEnLaNube.deps.json
 D:\Clase Jueves\ProyectoEnLaNube\ProyectoEnLaNube\bin\Debug\netcoreapp3.1\ProyectoEnLaNube.runtimeconfig.json
@@ -11,3 +12,18 @@ D:\Clase Jueves\ProyectoEnLaNube\ProyectoEnLaNube\obj\Debug\netcoreapp3.1\Proyec
 D:\Clase Jueves\ProyectoEnLaNube\ProyectoEnLaNube\obj\Debug\netcoreapp3.1\ProyectoEnLaNube.dll
 D:\Clase Jueves\ProyectoEnLaNube\ProyectoEnLaNube\obj\Debug\netcoreapp3.1\ProyectoEnLaNube.pdb
 D:\Clase Jueves\ProyectoEnLaNube\ProyectoEnLaNube\obj\Debug\netcoreapp3.1\ProyectoEnLaNube.genruntimeconfig.cache
+=======
+C:\Users\Floor\Desktop\Nueva carpeta\ClaseJueves\ProyectoEnLaNube\bin\Debug\netcoreapp3.1\ProyectoEnLaNube.exe
+C:\Users\Floor\Desktop\Nueva carpeta\ClaseJueves\ProyectoEnLaNube\bin\Debug\netcoreapp3.1\ProyectoEnLaNube.deps.json
+C:\Users\Floor\Desktop\Nueva carpeta\ClaseJueves\ProyectoEnLaNube\bin\Debug\netcoreapp3.1\ProyectoEnLaNube.runtimeconfig.json
+C:\Users\Floor\Desktop\Nueva carpeta\ClaseJueves\ProyectoEnLaNube\bin\Debug\netcoreapp3.1\ProyectoEnLaNube.runtimeconfig.dev.json
+C:\Users\Floor\Desktop\Nueva carpeta\ClaseJueves\ProyectoEnLaNube\bin\Debug\netcoreapp3.1\ProyectoEnLaNube.dll
+C:\Users\Floor\Desktop\Nueva carpeta\ClaseJueves\ProyectoEnLaNube\bin\Debug\netcoreapp3.1\ProyectoEnLaNube.pdb
+C:\Users\Floor\Desktop\Nueva carpeta\ClaseJueves\ProyectoEnLaNube\obj\Debug\netcoreapp3.1\ProyectoEnLaNube.csprojAssemblyReference.cache
+C:\Users\Floor\Desktop\Nueva carpeta\ClaseJueves\ProyectoEnLaNube\obj\Debug\netcoreapp3.1\ProyectoEnLaNube.AssemblyInfoInputs.cache
+C:\Users\Floor\Desktop\Nueva carpeta\ClaseJueves\ProyectoEnLaNube\obj\Debug\netcoreapp3.1\ProyectoEnLaNube.AssemblyInfo.cs
+C:\Users\Floor\Desktop\Nueva carpeta\ClaseJueves\ProyectoEnLaNube\obj\Debug\netcoreapp3.1\ProyectoEnLaNube.csproj.CoreCompileInputs.cache
+C:\Users\Floor\Desktop\Nueva carpeta\ClaseJueves\ProyectoEnLaNube\obj\Debug\netcoreapp3.1\ProyectoEnLaNube.dll
+C:\Users\Floor\Desktop\Nueva carpeta\ClaseJueves\ProyectoEnLaNube\obj\Debug\netcoreapp3.1\ProyectoEnLaNube.pdb
+C:\Users\Floor\Desktop\Nueva carpeta\ClaseJueves\ProyectoEnLaNube\obj\Debug\netcoreapp3.1\ProyectoEnLaNube.genruntimeconfig.cache
+>>>>>>> 71f81864c354243a752ebcd8a1ad7ff82b3fc564
