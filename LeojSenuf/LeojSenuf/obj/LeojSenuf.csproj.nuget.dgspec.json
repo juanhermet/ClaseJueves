@@ -1,21 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "E:\\New\\ClaseJueves\\LeojSenuf\\LeojSenuf\\LeojSenuf.csproj": {}
+    "D:\\Clase Jueves\\ProyectoEnLaNube\\LeojSenuf\\LeojSenuf\\LeojSenuf.csproj": {}
   },
   "projects": {
-    "E:\\New\\ClaseJueves\\LeojSenuf\\LeojSenuf\\LeojSenuf.csproj": {
+    "D:\\Clase Jueves\\ProyectoEnLaNube\\LeojSenuf\\LeojSenuf\\LeojSenuf.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\New\\ClaseJueves\\LeojSenuf\\LeojSenuf\\LeojSenuf.csproj",
+        "projectUniqueName": "D:\\Clase Jueves\\ProyectoEnLaNube\\LeojSenuf\\LeojSenuf\\LeojSenuf.csproj",
         "projectName": "LeojSenuf",
-        "projectPath": "E:\\New\\ClaseJueves\\LeojSenuf\\LeojSenuf\\LeojSenuf.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "E:\\New\\ClaseJueves\\LeojSenuf\\LeojSenuf\\obj\\",
+        "projectPath": "D:\\Clase Jueves\\ProyectoEnLaNube\\LeojSenuf\\LeojSenuf\\LeojSenuf.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\Clase Jueves\\ProyectoEnLaNube\\LeojSenuf\\LeojSenuf\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
