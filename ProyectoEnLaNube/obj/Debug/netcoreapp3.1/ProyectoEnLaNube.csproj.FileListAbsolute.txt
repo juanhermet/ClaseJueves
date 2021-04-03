@@ -1,0 +1,13 @@
+D:\Clase Jueves\ProyectoEnLaNube\ProyectoEnLaNube\bin\Debug\netcoreapp3.1\ProyectoEnLaNube.exe
+D:\Clase Jueves\ProyectoEnLaNube\ProyectoEnLaNube\bin\Debug\netcoreapp3.1\ProyectoEnLaNube.deps.json
+D:\Clase Jueves\ProyectoEnLaNube\ProyectoEnLaNube\bin\Debug\netcoreapp3.1\ProyectoEnLaNube.runtimeconfig.json
+D:\Clase Jueves\ProyectoEnLaNube\ProyectoEnLaNube\bin\Debug\netcoreapp3.1\ProyectoEnLaNube.runtimeconfig.dev.json
+D:\Clase Jueves\ProyectoEnLaNube\ProyectoEnLaNube\bin\Debug\netcoreapp3.1\ProyectoEnLaNube.dll
+D:\Clase Jueves\ProyectoEnLaNube\ProyectoEnLaNube\bin\Debug\netcoreapp3.1\ProyectoEnLaNube.pdb
+D:\Clase Jueves\ProyectoEnLaNube\ProyectoEnLaNube\obj\Debug\netcoreapp3.1\ProyectoEnLaNube.csprojAssemblyReference.cache
+D:\Clase Jueves\ProyectoEnLaNube\ProyectoEnLaNube\obj\Debug\netcoreapp3.1\ProyectoEnLaNube.AssemblyInfoInputs.cache
+D:\Clase Jueves\ProyectoEnLaNube\ProyectoEnLaNube\obj\Debug\netcoreapp3.1\ProyectoEnLaNube.AssemblyInfo.cs
+D:\Clase Jueves\ProyectoEnLaNube\ProyectoEnLaNube\obj\Debug\netcoreapp3.1\ProyectoEnLaNube.csproj.CoreCompileInputs.cache
+D:\Clase Jueves\ProyectoEnLaNube\ProyectoEnLaNube\obj\Debug\netcoreapp3.1\ProyectoEnLaNube.dll
+D:\Clase Jueves\ProyectoEnLaNube\ProyectoEnLaNube\obj\Debug\netcoreapp3.1\ProyectoEnLaNube.pdb
+D:\Clase Jueves\ProyectoEnLaNube\ProyectoEnLaNube\obj\Debug\netcoreapp3.1\ProyectoEnLaNube.genruntimeconfig.cache

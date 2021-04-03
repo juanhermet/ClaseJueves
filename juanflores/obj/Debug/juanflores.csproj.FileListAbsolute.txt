@@ -1,0 +1,7 @@
+D:\Clase Jueves\ProyectoEnLaNube\juanflores\bin\Debug\juanflores.exe.config
+D:\Clase Jueves\ProyectoEnLaNube\juanflores\bin\Debug\juanflores.exe
+D:\Clase Jueves\ProyectoEnLaNube\juanflores\bin\Debug\juanflores.pdb
+D:\Clase Jueves\ProyectoEnLaNube\juanflores\obj\Debug\juanflores.csprojAssemblyReference.cache
+D:\Clase Jueves\ProyectoEnLaNube\juanflores\obj\Debug\juanflores.csproj.CoreCompileInputs.cache
+D:\Clase Jueves\ProyectoEnLaNube\juanflores\obj\Debug\juanflores.exe
+D:\Clase Jueves\ProyectoEnLaNube\juanflores\obj\Debug\juanflores.pdb

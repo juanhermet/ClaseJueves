@@ -1,0 +1,7 @@
+D:\Clase Jueves\ProyectoEnLaNube\Esteban Villarreal\bin\Debug\Esteban Villarreal.exe.config
+D:\Clase Jueves\ProyectoEnLaNube\Esteban Villarreal\bin\Debug\Esteban Villarreal.exe
+D:\Clase Jueves\ProyectoEnLaNube\Esteban Villarreal\bin\Debug\Esteban Villarreal.pdb
+D:\Clase Jueves\ProyectoEnLaNube\Esteban Villarreal\obj\Debug\Esteban Villarreal.csprojAssemblyReference.cache
+D:\Clase Jueves\ProyectoEnLaNube\Esteban Villarreal\obj\Debug\Esteban Villarreal.csproj.CoreCompileInputs.cache
+D:\Clase Jueves\ProyectoEnLaNube\Esteban Villarreal\obj\Debug\Esteban Villarreal.exe
+D:\Clase Jueves\ProyectoEnLaNube\Esteban Villarreal\obj\Debug\Esteban Villarreal.pdb
